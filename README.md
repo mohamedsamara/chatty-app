@@ -11,3 +11,7 @@ Chatty is a chat application that let users message from macOS and web.
 ## Download
 
 Install Chatty from the [Github releases](https://github.com/mohamedsamara/chatty-app/releases) section.
+
+## Found a Bug?
+
+Feel free to use the [issues](https://github.com/mohamedsamara/chatty-app/issues) section.
