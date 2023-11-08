@@ -1,6 +1,6 @@
 # What is Chatty App?
 
-Chatty is a chat application that let users message from macOS and web.
+Chatty is a chat application that lets users message from macOS and the web.
 
 ## Features
 
